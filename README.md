@@ -1,7 +1,7 @@
 ## This is the profile of Jesús Gaitán 
 
 - 👀 I’m interested in learning a lot, especially development
-- 🌱 I’m currently learning Kotlin and JavaScirpt
+- 🌱 I’m currently learning React and JavaScirpt
 - 📫 How to reach me **jggaitan94@outlook.com**
 - ⚡ Pronouns: JexxGC03
 
